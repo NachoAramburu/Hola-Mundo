@@ -7,14 +7,13 @@
 2.5 -> git pull origin main --allow-unrelated-histories
 2.5 -> git branch --set-upstream-to=origin/main master
 2.6 -> git push - - set - upstream main
-->
-->
-->
-->
-->
-->
-->
-->
-
-
-PONER EN QUÉ PASO 
+2.8 -> git clone https://github.com/NachoAramburu/Hola-Mundo.git
+2.9 -> git branch "dev"
+2.9 -> git checkout dev
+2.11 -> git add README.md
+2.11 -> git commit -m "Commit inicial"
+2.12 -> git push --set-upstream origin dev
+2.13 -> git checkout master
+2.13 -> git merge dev
+2.13 -> git push --set-upstream origin 
+2.14 -> Borrado desde Brances en Github

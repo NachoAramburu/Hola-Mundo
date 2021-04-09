@@ -1,0 +1,20 @@
+-> Crear carpeta Hola-Mundo
+-> git innit
+-> Crear documento README.md
+-> git add README.md
+-> git commit -m "Commit inicial"
+-> git remote add origin https://github.com/NachoAramburu/Hola-Mundo.git
+-> git pull origin main --allow-unrelated-histories
+-> git branch --set-upstream-to=origin/main master
+->
+->
+->
+->
+->
+->
+->
+->
+->
+
+
+PONER EN QUÉ PASO 
